@@ -2,122 +2,137 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+B"H
 
-[Link to another page](./about.md).
+# Data Science Portfolio
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Welcome to my portfolio! I'm David Koyrakh, a data science professional passionate about building solutions that drive real business value.
 
 * * *
 
-### Here is an unordered list:
+## About
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+I am a data science professional with expertise in machine learning, statistical analysis, and big data technologies. My work spans across multiple domains including healthcare, finance, telecommunications, and business intelligence. I specialize in developing predictive models, creating data pipelines, and building interactive dashboards that transform complex data into actionable insights.
 
-### And an ordered list:
+### Skills & Technologies
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**Programming Languages:** Python, R, SQL
 
-### And a nested list:
+**Machine Learning:** Scikit-learn, TensorFlow, XGBoost, Random Forest, Neural Networks
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+**Big Data:** Hadoop, Spark, HBase, Kafka
 
-### Small image
+**Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, ggplot2
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+**Cloud Platforms:** AWS, Azure, Google Cloud Platform
 
-### Large image
+**Statistical Analysis:** Hypothesis Testing, Regression Analysis, Time Series, Clustering
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Tools & Frameworks:** Git, Docker, Jupyter, pandas, NumPy
 
+### Education
 
-### Definition lists can be used with HTML syntax.
+**Master of Science in Data Science**  
+Bellevue University
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### What I'm Looking For
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+I'm seeking opportunities to leverage data science and machine learning to solve challenging business problems, particularly in finance (traditional or crypto). I'm passionate about creating interpretable, ethical AI solutions that deliver impact.
 
-```
-The final element.
-```
+* * *
+
+## Projects
+
+Below are some of the key projects I've worked on, demonstrating my skills across various aspects of data science:
+
+### 1. Data Science ROI Analysis for Business Executives
+
+Created a comprehensive presentation analyzing the return on investment of data science initiatives across different business sectors, including case studies and implementation strategies for C-level executives.
+
+**Link:** TBD
+
+---
+
+### 2. Customer Segmentation Using Concession Stand Data
+
+Applied K-means clustering to analyze customer purchasing patterns at concession stands, identifying distinct customer segments and developing targeted marketing strategies based on spending behavior and preferences.
+
+**Link:** TBD
+
+---
+
+### 3. Titanic Survival Prediction with R
+
+Built a comprehensive statistical analysis and machine learning model using R to predict passenger survival on the Titanic, incorporating demographic data, ticket class, and family relationships with advanced visualization techniques.
+
+**Link:** TBD
+
+---
+
+### 4. Statistical Analysis of Survey Data with Python
+
+Conducted hypothesis testing and statistical modeling on student survey data using Python, exploring relationships between academic performance, study habits, and demographic factors with comprehensive statistical validation.
+
+**Link:** TBD
+
+---
+
+### 5. US Census Data ETL Pipeline
+
+Developed an end-to-end data pipeline extracting, transforming, and loading US Census demographic data, integrating multiple data sources including API calls, flat files, and web scraping with automated data quality checks.
+
+**Link:** TBD
+
+---
+
+### 6. Bitcoin Price Prediction Using Google Trends
+
+Created a machine learning model predicting Bitcoin price movements by combining Google Trends search data with technical indicators, achieving 78.5% accuracy using ensemble methods including Random Forest, XGBoost, and LSTM neural networks.
+
+**Link:** TBD
+
+---
+
+### 7. Telecom Customer Churn Prediction Model
+
+Developed a predictive model identifying customers at risk of leaving their telecom provider, achieving 85% accuracy and providing actionable insights for retention strategies including contract optimization and service improvements.
+
+**Link:** TBD
+
+---
+
+### 8. US Childcare Cost Analysis Dashboard
+
+Built an interactive dashboard analyzing childcare costs across different US regions and demographics, creating compelling visualizations and infographics to communicate policy implications and economic trends to stakeholders.
+
+**Link:** TBD
+
+---
+
+### 9. Hadoop and Spark Big Data Implementation
+
+Implemented a complete big data infrastructure using Hadoop, Spark, HBase, and Kafka for processing large-scale datasets, including real-time data streaming and distributed computing solutions on cloud platforms.
+
+**Link:** TBD
+
+---
+
+### 10. Heart Disease Risk Assessment Tool
+
+Developed an interpretable machine learning model predicting heart disease risk using clinical data, achieving 89% accuracy with strong focus on model explainability and ethical considerations for healthcare applications.
+
+**Link:** TBD
+
+* * *
+
+## Contact
+
+I'm always interested in connecting with fellow data enthusiasts, potential collaborators, and employers. Feel free to reach out!
+
+**LinkedIn:** [linkedin.com/in/davidkoyrakh](https://www.linkedin.com/in/davidkoyrakh/)
+
+**GitHub:** [github.com/dovkoy](https://github.com/dovkoy)
+
+---
+
+_Last updated: November 2025_
