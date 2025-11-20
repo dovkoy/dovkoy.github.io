@@ -95,11 +95,11 @@ Developed a predictive model identifying customers at risk of leaving their tele
 
 ---
 
-### 6. Titanic Survival Prediction with R
+### 6. Titanic Survival Analysis with R
 
-Built a comprehensive statistical analysis and machine learning model using R to predict passenger survival on the Titanic, incorporating demographic data, ticket class, and family relationships with advanced visualization techniques.
+Conducted rigorous statistical analysis of RMS Titanic disaster data (887 passengers) to investigate how socioeconomic factors influenced survival outcomes. Evaluated multiple data sources, performed comprehensive EDA answering five research questions, and developed a logistic regression model using R to quantify the impact of passenger class, fare, family size, age, and gender on survival probability.
 
-**Link:** [View Project](/projects/titanic_survival_factors_R.pdf)
+**Link:** [View Project](/projects/titanic_survival_factors/readme.md)
 
 ---
 
