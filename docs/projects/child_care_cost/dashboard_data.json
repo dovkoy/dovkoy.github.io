@@ -1,0 +1,1075 @@
+{
+  "age_groups": [
+    {
+      "value": "infant",
+      "label": "Infant",
+      "field": "MCInfant"
+    },
+    {
+      "value": "toddler",
+      "label": "Toddler",
+      "field": "MCToddler"
+    },
+    {
+      "value": "preschool",
+      "label": "Preschool",
+      "field": "MCPreschool"
+    },
+    {
+      "value": "schoolage",
+      "label": "School Age",
+      "field": "MCSA"
+    }
+  ],
+  "care_types": [
+    {
+      "value": "center",
+      "label": "Center-Based Care",
+      "prefix": "MC"
+    },
+    {
+      "value": "family",
+      "label": "Family Child Care",
+      "prefix": "MFCC"
+    }
+  ],
+  "states": [
+    {
+      "state": "Alabama",
+      "state_abbr": "AL",
+      "median_income": 38158.02,
+      "population": 52501130,
+      "childcare_costs": {
+        "center": {
+          "infant": 105.75,
+          "toddler": 105.75,
+          "preschool": 96.79,
+          "schoolage": 92.25
+        },
+        "family": {
+          "infant": 91.82,
+          "toddler": 92.0,
+          "preschool": 90.46,
+          "schoolage": 89.28
+        }
+      }
+    },
+    {
+      "state": "Alaska",
+      "state_abbr": "AK",
+      "median_income": 62591.14,
+      "population": 7863781,
+      "childcare_costs": {
+        "center": {
+          "infant": 237.35,
+          "toddler": 219.1,
+          "preschool": 183.64,
+          "schoolage": 152.37
+        },
+        "family": {
+          "infant": 175.3,
+          "toddler": 156.85,
+          "preschool": 146.0,
+          "schoolage": 125.68
+        }
+      }
+    },
+    {
+      "state": "Arizona",
+      "state_abbr": "AZ",
+      "median_income": 43527.34,
+      "population": 71832425,
+      "childcare_costs": {
+        "center": {
+          "infant": 164.57,
+          "toddler": 145.97,
+          "preschool": 132.49,
+          "schoolage": 119.65
+        },
+        "family": {
+          "infant": 113.25,
+          "toddler": 110.05,
+          "preschool": 105.43,
+          "schoolage": 101.8
+        }
+      }
+    },
+    {
+      "state": "Arkansas",
+      "state_abbr": "AR",
+      "median_income": 36475.06,
+      "population": 32130410,
+      "childcare_costs": {
+        "center": {
+          "infant": 104.92,
+          "toddler": 100.55,
+          "preschool": 92.25,
+          "schoolage": 82.78
+        },
+        "family": {
+          "infant": 90.58,
+          "toddler": 86.17,
+          "preschool": 82.54,
+          "schoolage": 79.38
+        }
+      }
+    },
+    {
+      "state": "California",
+      "state_abbr": "CA",
+      "median_income": 57110.38,
+      "population": 414591662,
+      "childcare_costs": {
+        "center": {
+          "infant": 270.84,
+          "toddler": 193.98,
+          "preschool": 193.98,
+          "schoolage": 159.43
+        },
+        "family": {
+          "infant": 173.34,
+          "toddler": 160.91,
+          "preschool": 160.91,
+          "schoolage": 137.85
+        }
+      }
+    },
+    {
+      "state": "Colorado",
+      "state_abbr": "CO",
+      "median_income": 51468.88,
+      "population": 56505710,
+      "childcare_costs": {
+        "center": {
+          "infant": 226.09,
+          "toddler": 199.99,
+          "preschool": 176.11,
+          "schoolage": 169.82
+        },
+        "family": {
+          "infant": 169.74,
+          "toddler": 157.0,
+          "preschool": 149.15,
+          "schoolage": 132.96
+        }
+      }
+    },
+    {
+      "state": "Connecticut",
+      "state_abbr": "CT",
+      "median_income": 71303.62,
+      "population": 39197103,
+      "childcare_costs": {
+        "center": {
+          "infant": 253.24,
+          "toddler": 253.24,
+          "preschool": 211.05,
+          "schoolage": 93.17
+        },
+        "family": {
+          "infant": 186.53,
+          "toddler": 184.76,
+          "preschool": 177.21,
+          "schoolage": 83.3
+        }
+      }
+    },
+    {
+      "state": "Delaware",
+      "state_abbr": "DE",
+      "median_income": 57959.91,
+      "population": 9977783,
+      "childcare_costs": {
+        "center": {
+          "infant": 175.59,
+          "toddler": 156.92,
+          "preschool": 143.14,
+          "schoolage": 71.23
+        },
+        "family": {
+          "infant": 129.48,
+          "toddler": 124.34,
+          "preschool": 118.0,
+          "schoolage": 59.38
+        }
+      }
+    },
+    {
+      "state": "District of Columbia",
+      "state_abbr": "DC",
+      "median_income": 66970.55,
+      "population": 6877409,
+      "childcare_costs": {
+        "center": {
+          "infant": 303.58,
+          "toddler": 253.06,
+          "preschool": 237.78,
+          "schoolage": 248.63
+        },
+        "family": {
+          "infant": 215.77,
+          "toddler": 200.34,
+          "preschool": 192.8,
+          "schoolage": 172.34
+        }
+      }
+    },
+    {
+      "state": "Florida",
+      "state_abbr": "FL",
+      "median_income": 44946.02,
+      "population": 211401663,
+      "childcare_costs": {
+        "center": {
+          "infant": 144.26,
+          "toddler": 122.44,
+          "preschool": 110.57,
+          "schoolage": 94.68
+        },
+        "family": {
+          "infant": 126.64,
+          "toddler": 115.12,
+          "preschool": 107.92,
+          "schoolage": 92.47
+        }
+      }
+    },
+    {
+      "state": "Georgia",
+      "state_abbr": "GA",
+      "median_income": 41195.4,
+      "population": 108111663,
+      "childcare_costs": {
+        "center": {
+          "infant": 110.53,
+          "toddler": 103.68,
+          "preschool": 102.8,
+          "schoolage": 93.21
+        },
+        "family": {
+          "infant": 94.53,
+          "toddler": 93.65,
+          "preschool": 93.21,
+          "schoolage": 89.94
+        }
+      }
+    },
+    {
+      "state": "Hawaii",
+      "state_abbr": "HI",
+      "median_income": 63846.18,
+      "population": 15036056,
+      "childcare_costs": {
+        "center": {
+          "infant": 286.01,
+          "toddler": 286.01,
+          "preschool": 198.17,
+          "schoolage": 28.92
+        },
+        "family": {
+          "infant": 146.75,
+          "toddler": 146.75,
+          "preschool": 142.75,
+          "schoolage": 142.75
+        }
+      }
+    },
+    {
+      "state": "Idaho",
+      "state_abbr": "ID",
+      "median_income": 43915.51,
+      "population": 17411099,
+      "childcare_costs": {
+        "center": {
+          "infant": 117.11,
+          "toddler": 113.91,
+          "preschool": 105.26,
+          "schoolage": 93.56
+        },
+        "family": {
+          "infant": 108.19,
+          "toddler": 101.85,
+          "preschool": 97.28,
+          "schoolage": 94.61
+        }
+      }
+    },
+    {
+      "state": "Illinois",
+      "state_abbr": "IL",
+      "median_income": 49542.77,
+      "population": 141092884,
+      "childcare_costs": {
+        "center": {
+          "infant": 173.85,
+          "toddler": 148.57,
+          "preschool": 129.61,
+          "schoolage": 73.52
+        },
+        "family": {
+          "infant": 119.77,
+          "toddler": 117.58,
+          "preschool": 113.42,
+          "schoolage": 63.23
+        }
+      }
+    },
+    {
+      "state": "Indiana",
+      "state_abbr": "IN",
+      "median_income": 48838.46,
+      "population": 71502942,
+      "childcare_costs": {
+        "center": {
+          "infant": null,
+          "toddler": null,
+          "preschool": null,
+          "schoolage": null
+        },
+        "family": {
+          "infant": null,
+          "toddler": null,
+          "preschool": null,
+          "schoolage": null
+        }
+      }
+    },
+    {
+      "state": "Iowa",
+      "state_abbr": "IA",
+      "median_income": 49388.59,
+      "population": 33653225,
+      "childcare_costs": {
+        "center": {
+          "infant": 154.76,
+          "toddler": 154.76,
+          "preschool": 132.07,
+          "schoolage": 106.0
+        },
+        "family": {
+          "infant": 100.72,
+          "toddler": 100.72,
+          "preschool": 98.92,
+          "schoolage": 89.93
+        }
+      }
+    },
+    {
+      "state": "Kansas",
+      "state_abbr": "KS",
+      "median_income": 46275.29,
+      "population": 31405732,
+      "childcare_costs": {
+        "center": {
+          "infant": 102.29,
+          "toddler": 95.69,
+          "preschool": 85.81,
+          "schoolage": 75.92
+        },
+        "family": {
+          "infant": 83.72,
+          "toddler": 75.85,
+          "preschool": 75.85,
+          "schoolage": 75.68
+        }
+      }
+    },
+    {
+      "state": "Kentucky",
+      "state_abbr": "KY",
+      "median_income": 38828.34,
+      "population": 47848138,
+      "childcare_costs": {
+        "center": {
+          "infant": 112.05,
+          "toddler": 101.64,
+          "preschool": 101.65,
+          "schoolage": 92.3
+        },
+        "family": {
+          "infant": 99.13,
+          "toddler": 92.41,
+          "preschool": 92.41,
+          "schoolage": 88.24
+        }
+      }
+    },
+    {
+      "state": "Louisiana",
+      "state_abbr": "LA",
+      "median_income": 41325.23,
+      "population": 49966320,
+      "childcare_costs": {
+        "center": {
+          "infant": 111.71,
+          "toddler": 108.24,
+          "preschool": 104.22,
+          "schoolage": 101.84
+        },
+        "family": {
+          "infant": 90.1,
+          "toddler": 87.45,
+          "preschool": 85.68,
+          "schoolage": 83.01
+        }
+      }
+    },
+    {
+      "state": "Maine",
+      "state_abbr": "ME",
+      "median_income": 46167.47,
+      "population": 14595586,
+      "childcare_costs": {
+        "center": {
+          "infant": 173.81,
+          "toddler": 164.14,
+          "preschool": 152.04,
+          "schoolage": 102.4
+        },
+        "family": {
+          "infant": 136.45,
+          "toddler": 129.33,
+          "preschool": 122.99,
+          "schoolage": 96.95
+        }
+      }
+    },
+    {
+      "state": "Maryland",
+      "state_abbr": "MD",
+      "median_income": 69173.71,
+      "population": 64086161,
+      "childcare_costs": {
+        "center": {
+          "infant": 221.61,
+          "toddler": 161.57,
+          "preschool": 161.57,
+          "schoolage": 150.45
+        },
+        "family": {
+          "infant": 162.08,
+          "toddler": 135.57,
+          "preschool": 135.57,
+          "schoolage": 130.16
+        }
+      }
+    },
+    {
+      "state": "Massachusetts",
+      "state_abbr": "MA",
+      "median_income": 66082.41,
+      "population": 72860412,
+      "childcare_costs": {
+        "center": {
+          "infant": 302.03,
+          "toddler": 279.11,
+          "preschool": 222.18,
+          "schoolage": 146.89
+        },
+        "family": {
+          "infant": 215.94,
+          "toddler": 203.7,
+          "preschool": 199.58,
+          "schoolage": 197.54
+        }
+      }
+    },
+    {
+      "state": "Michigan",
+      "state_abbr": "MI",
+      "median_income": 44813.37,
+      "population": 109323890,
+      "childcare_costs": {
+        "center": {
+          "infant": 144.94,
+          "toddler": 144.94,
+          "preschool": 129.13,
+          "schoolage": 128.46
+        },
+        "family": {
+          "infant": 104.81,
+          "toddler": 102.51,
+          "preschool": 99.02,
+          "schoolage": 100.14
+        }
+      }
+    },
+    {
+      "state": "Minnesota",
+      "state_abbr": "MN",
+      "median_income": 52936.37,
+      "population": 58824666,
+      "childcare_costs": {
+        "center": {
+          "infant": 180.9,
+          "toddler": 164.69,
+          "preschool": 151.38,
+          "schoolage": 133.34
+        },
+        "family": {
+          "infant": 126.51,
+          "toddler": 120.83,
+          "preschool": 116.37,
+          "schoolage": 111.56
+        }
+      }
+    },
+    {
+      "state": "Mississippi",
+      "state_abbr": "MS",
+      "median_income": 34884.92,
+      "population": 32621314,
+      "childcare_costs": {
+        "center": {
+          "infant": 78.62,
+          "toddler": 69.86,
+          "preschool": 69.86,
+          "schoolage": 64.47
+        },
+        "family": {
+          "infant": 66.1,
+          "toddler": 59.01,
+          "preschool": 56.26,
+          "schoolage": 55.01
+        }
+      }
+    },
+    {
+      "state": "Missouri",
+      "state_abbr": "MO",
+      "median_income": 41530.79,
+      "population": 65944518,
+      "childcare_costs": {
+        "center": {
+          "infant": 138.34,
+          "toddler": 110.99,
+          "preschool": 111.53,
+          "schoolage": 84.18
+        },
+        "family": {
+          "infant": 105.73,
+          "toddler": 92.97,
+          "preschool": 92.97,
+          "schoolage": 83.79
+        }
+      }
+    },
+    {
+      "state": "Montana",
+      "state_abbr": "MT",
+      "median_income": 43659.17,
+      "population": 10975691,
+      "childcare_costs": {
+        "center": {
+          "infant": 142.4,
+          "toddler": 124.6,
+          "preschool": 124.6,
+          "schoolage": 124.6
+        },
+        "family": {
+          "infant": 107.9,
+          "toddler": 100.71,
+          "preschool": 100.71,
+          "schoolage": 100.71
+        }
+      }
+    },
+    {
+      "state": "Nebraska",
+      "state_abbr": "NE",
+      "median_income": 46807.39,
+      "population": 20231933,
+      "childcare_costs": {
+        "center": {
+          "infant": 135.94,
+          "toddler": 122.59,
+          "preschool": 117.72,
+          "schoolage": 121.12
+        },
+        "family": {
+          "infant": 111.0,
+          "toddler": 110.79,
+          "preschool": 110.77,
+          "schoolage": 102.37
+        }
+      }
+    },
+    {
+      "state": "Nevada",
+      "state_abbr": "NV",
+      "median_income": 53817.06,
+      "population": 30042792,
+      "childcare_costs": {
+        "center": {
+          "infant": 150.42,
+          "toddler": 139.58,
+          "preschool": 132.36,
+          "schoolage": 118.72
+        },
+        "family": {
+          "infant": 136.99,
+          "toddler": 133.29,
+          "preschool": 130.61,
+          "schoolage": 125.28
+        }
+      }
+    },
+    {
+      "state": "New Hampshire",
+      "state_abbr": "NH",
+      "median_income": 60200.88,
+      "population": 14542455,
+      "childcare_costs": {
+        "center": {
+          "infant": 216.57,
+          "toddler": 200.19,
+          "preschool": 178.81,
+          "schoolage": 172.89
+        },
+        "family": {
+          "infant": 159.24,
+          "toddler": 159.24,
+          "preschool": 159.24,
+          "schoolage": 159.24
+        }
+      }
+    },
+    {
+      "state": "New Jersey",
+      "state_abbr": "NJ",
+      "median_income": 73233.99,
+      "population": 96946400,
+      "childcare_costs": {
+        "center": {
+          "infant": 207.79,
+          "toddler": 196.78,
+          "preschool": 174.68,
+          "schoolage": 128.38
+        },
+        "family": {
+          "infant": 163.26,
+          "toddler": 158.16,
+          "preschool": 145.94,
+          "schoolage": 124.16
+        }
+      }
+    },
+    {
+      "state": "New Mexico",
+      "state_abbr": "NM",
+      "median_income": 40308.93,
+      "population": 22527311,
+      "childcare_costs": {
+        "center": {
+          "infant": null,
+          "toddler": null,
+          "preschool": null,
+          "schoolage": null
+        },
+        "family": {
+          "infant": null,
+          "toddler": null,
+          "preschool": null,
+          "schoolage": null
+        }
+      }
+    },
+    {
+      "state": "New York",
+      "state_abbr": "NY",
+      "median_income": 54861.69,
+      "population": 214651780,
+      "childcare_costs": {
+        "center": {
+          "infant": 249.28,
+          "toddler": 228.4,
+          "preschool": 213.96,
+          "schoolage": 195.85
+        },
+        "family": {
+          "infant": 175.32,
+          "toddler": 166.97,
+          "preschool": 163.86,
+          "schoolage": 161.23
+        }
+      }
+    },
+    {
+      "state": "North Carolina",
+      "state_abbr": "NC",
+      "median_income": 42177.38,
+      "population": 105711827,
+      "childcare_costs": {
+        "center": {
+          "infant": 163.05,
+          "toddler": 146.01,
+          "preschool": 132.98,
+          "schoolage": 102.6
+        },
+        "family": {
+          "infant": 125.9,
+          "toddler": 116.22,
+          "preschool": 112.04,
+          "schoolage": 99.75
+        }
+      }
+    },
+    {
+      "state": "North Dakota",
+      "state_abbr": "ND",
+      "median_income": 51237.76,
+      "population": 7634261,
+      "childcare_costs": {
+        "center": {
+          "infant": 130.19,
+          "toddler": 122.45,
+          "preschool": 117.46,
+          "schoolage": 69.68
+        },
+        "family": {
+          "infant": 96.64,
+          "toddler": 93.4,
+          "preschool": 92.36,
+          "schoolage": 76.21
+        }
+      }
+    },
+    {
+      "state": "Ohio",
+      "state_abbr": "OH",
+      "median_income": 48285.22,
+      "population": 127081853,
+      "childcare_costs": {
+        "center": {
+          "infant": 171.68,
+          "toddler": 156.87,
+          "preschool": 138.49,
+          "schoolage": 99.82
+        },
+        "family": {
+          "infant": 146.22,
+          "toddler": 137.92,
+          "preschool": 130.46,
+          "schoolage": 117.44
+        }
+      }
+    },
+    {
+      "state": "Oklahoma",
+      "state_abbr": "OK",
+      "median_income": 42763.1,
+      "population": 41500182,
+      "childcare_costs": {
+        "center": {
+          "infant": 136.02,
+          "toddler": 113.46,
+          "preschool": 113.46,
+          "schoolage": 69.99
+        },
+        "family": {
+          "infant": 101.27,
+          "toddler": 95.48,
+          "preschool": 95.48,
+          "schoolage": 71.78
+        }
+      }
+    },
+    {
+      "state": "Oregon",
+      "state_abbr": "OR",
+      "median_income": 45723.58,
+      "population": 42661802,
+      "childcare_costs": {
+        "center": {
+          "infant": 158.36,
+          "toddler": 151.42,
+          "preschool": 138.75,
+          "schoolage": 78.02
+        },
+        "family": {
+          "infant": 113.54,
+          "toddler": 108.61,
+          "preschool": 108.61,
+          "schoolage": 91.68
+        }
+      }
+    },
+    {
+      "state": "Pennsylvania",
+      "state_abbr": "PA",
+      "median_income": 49540.93,
+      "population": 139543694,
+      "childcare_costs": {
+        "center": {
+          "infant": 167.71,
+          "toddler": 154.6,
+          "preschool": 144.4,
+          "schoolage": 135.64
+        },
+        "family": {
+          "infant": 135.21,
+          "toddler": 127.84,
+          "preschool": 125.38,
+          "schoolage": 121.44
+        }
+      }
+    },
+    {
+      "state": "Rhode Island",
+      "state_abbr": "RI",
+      "median_income": 65828.09,
+      "population": 11600354,
+      "childcare_costs": {
+        "center": {
+          "infant": 264.42,
+          "toddler": 252.55,
+          "preschool": 226.65,
+          "schoolage": 145.7
+        },
+        "family": {
+          "infant": 194.27,
+          "toddler": 188.87,
+          "preschool": 174.13,
+          "schoolage": 129.51
+        }
+      }
+    },
+    {
+      "state": "South Carolina",
+      "state_abbr": "SC",
+      "median_income": 39992.57,
+      "population": 51406677,
+      "childcare_costs": {
+        "center": {
+          "infant": 124.05,
+          "toddler": 124.05,
+          "preschool": 110.52,
+          "schoolage": 93.86
+        },
+        "family": {
+          "infant": 96.63,
+          "toddler": 96.63,
+          "preschool": 89.13,
+          "schoolage": 74.78
+        }
+      }
+    },
+    {
+      "state": "South Dakota",
+      "state_abbr": "SD",
+      "median_income": 45658.34,
+      "population": 9090454,
+      "childcare_costs": {
+        "center": {
+          "infant": 96.89,
+          "toddler": 96.89,
+          "preschool": 91.31,
+          "schoolage": 88.07
+        },
+        "family": {
+          "infant": 79.56,
+          "toddler": 79.56,
+          "preschool": 77.99,
+          "schoolage": 78.66
+        }
+      }
+    },
+    {
+      "state": "Tennessee",
+      "state_abbr": "TN",
+      "median_income": 40119.69,
+      "population": 70338932,
+      "childcare_costs": {
+        "center": {
+          "infant": 120.87,
+          "toddler": 101.99,
+          "preschool": 101.99,
+          "schoolage": 47.13
+        },
+        "family": {
+          "infant": 94.17,
+          "toddler": 88.95,
+          "preschool": 88.95,
+          "schoolage": 57.75
+        }
+      }
+    },
+    {
+      "state": "Texas",
+      "state_abbr": "TX",
+      "median_income": 45829.63,
+      "population": 282493304,
+      "childcare_costs": {
+        "center": {
+          "infant": 122.58,
+          "toddler": 113.54,
+          "preschool": 106.6,
+          "schoolage": 101.03
+        },
+        "family": {
+          "infant": 107.8,
+          "toddler": 101.88,
+          "preschool": 97.62,
+          "schoolage": 87.57
+        }
+      }
+    },
+    {
+      "state": "Utah",
+      "state_abbr": "UT",
+      "median_income": 54178.0,
+      "population": 31016775,
+      "childcare_costs": {
+        "center": {
+          "infant": 140.15,
+          "toddler": 116.51,
+          "preschool": 112.39,
+          "schoolage": 94.08
+        },
+        "family": {
+          "infant": 109.6,
+          "toddler": 101.9,
+          "preschool": 100.55,
+          "schoolage": 90.59
+        }
+      }
+    },
+    {
+      "state": "Vermont",
+      "state_abbr": "VT",
+      "median_income": 52312.88,
+      "population": 6870454,
+      "childcare_costs": {
+        "center": {
+          "infant": 184.62,
+          "toddler": 178.41,
+          "preschool": 168.97,
+          "schoolage": 153.91
+        },
+        "family": {
+          "infant": 137.13,
+          "toddler": 130.41,
+          "preschool": 129.1,
+          "schoolage": 125.18
+        }
+      }
+    },
+    {
+      "state": "Virginia",
+      "state_abbr": "VA",
+      "median_income": 53126.4,
+      "population": 88832623,
+      "childcare_costs": {
+        "center": {
+          "infant": 164.58,
+          "toddler": 132.75,
+          "preschool": 132.75,
+          "schoolage": 121.21
+        },
+        "family": {
+          "infant": 125.4,
+          "toddler": 107.64,
+          "preschool": 107.64,
+          "schoolage": 99.72
+        }
+      }
+    },
+    {
+      "state": "Washington",
+      "state_abbr": "WA",
+      "median_income": 50059.21,
+      "population": 75113159,
+      "childcare_costs": {
+        "center": {
+          "infant": 268.56,
+          "toddler": 223.63,
+          "preschool": 191.73,
+          "schoolage": 144.72
+        },
+        "family": {
+          "infant": 176.16,
+          "toddler": 158.54,
+          "preschool": 145.86,
+          "schoolage": 114.27
+        }
+      }
+    },
+    {
+      "state": "West Virginia",
+      "state_abbr": "WV",
+      "median_income": 38479.05,
+      "population": 20230668,
+      "childcare_costs": {
+        "center": {
+          "infant": 121.96,
+          "toddler": 106.9,
+          "preschool": 104.47,
+          "schoolage": 96.33
+        },
+        "family": {
+          "infant": 91.04,
+          "toddler": 86.99,
+          "preschool": 86.99,
+          "schoolage": 82.11
+        }
+      }
+    },
+    {
+      "state": "Wisconsin",
+      "state_abbr": "WI",
+      "median_income": 50459.63,
+      "population": 62657594,
+      "childcare_costs": {
+        "center": {
+          "infant": 179.61,
+          "toddler": 161.9,
+          "preschool": 161.84,
+          "schoolage": 142.43
+        },
+        "family": {
+          "infant": 141.48,
+          "toddler": 132.35,
+          "preschool": 132.57,
+          "schoolage": 125.67
+        }
+      }
+    },
+    {
+      "state": "Wyoming",
+      "state_abbr": "WY",
+      "median_income": 55704.23,
+      "population": 6182626,
+      "childcare_costs": {
+        "center": {
+          "infant": 149.22,
+          "toddler": 129.94,
+          "preschool": 126.15,
+          "schoolage": 111.07
+        },
+        "family": {
+          "infant": 127.54,
+          "toddler": 122.86,
+          "preschool": 121.32,
+          "schoolage": 116.59
+        }
+      }
+    }
+  ],
+  "stats": {
+    "infant_care": {
+      "center": {
+        "min": 27.73,
+        "max": 470.0,
+        "mean": 146.05,
+        "median": 134.5
+      },
+      "family": {
+        "min": 43.08,
+        "max": 430.94,
+        "mean": 113.42,
+        "median": 106.0
+      }
+    },
+    "national_median_income": 44438.0
+  }
+}
