@@ -1,5 +1,7 @@
 B"H
 
+[← Back to Home](/)
+
 # Bitcoin Price Movement Prediction Using Google Trends
 
 ## Research Question

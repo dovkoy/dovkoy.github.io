@@ -1,5 +1,7 @@
 B"H
 
+[← Back to Home](/)
+
 # U.S. Childcare Costs: Economic Patterns and Affordability Challenges
 
 ## Research Question

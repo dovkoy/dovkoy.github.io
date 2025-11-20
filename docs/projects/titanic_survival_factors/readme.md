@@ -1,5 +1,7 @@
 B"H
 
+[← Back to Home](/)
+
 # Titanic Survival Analysis: Investigating Socioeconomic Factors
 
 ## Research Question
