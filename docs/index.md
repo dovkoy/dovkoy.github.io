@@ -103,9 +103,11 @@ Built a comprehensive statistical analysis and machine learning model using R to
 
 ---
 
-### 7. TBD
+### 7. AI Customer Service Agent Escalation Failure Mitigation
 
-**Link:** TBD
+Developed a production-grade safeguard for AI customer service systems to reliably catch failed escalations. The system detects when an agent claims to transfer a user to a human representative, but the actual escalation is not triggered. Implemented a two-layer defense: fast keyword filtering and an optional LLM-based binary classifier using OpenAI's Structured Output API. Comprehensive unit tests ensure reliability across a wide range of message scenarios.
+
+**Link:** [View Project](/projects/agent_escalation/readme.md)
 
 ---
 
