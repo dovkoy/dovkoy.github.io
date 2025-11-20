@@ -21,5 +21,5 @@ The analysis encompasses three major components:
 The project demonstrates production-grade customer analytics practices including proper handling of class imbalance, comprehensive evaluation metrics prioritizing recall for retention contexts, transparent model interpretation, and business-focused recommendations. Key findings reveal that month-to-month contracts have significantly higher churn rates (~43%) compared to one-year (~11%) and two-year contracts (~3%), with early tenure risk, fiber optic service issues, and payment method choice also serving as strong predictors of churn.
 
 ## Project Files
-- [Notebook (PDF)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/telcom_churn/notebook.pdf)
-- [White Paper (PDF)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/telcom_churn/white_paper.pdf)
+- [Notebook (PDF)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/telcom_churn/notebook.pdf)
+- [White Paper (PDF)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/telcom_churn/white_paper.pdf)

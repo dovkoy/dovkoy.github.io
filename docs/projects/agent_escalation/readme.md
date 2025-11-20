@@ -20,4 +20,4 @@ The patch intercepts messages at two strategic points in the application flow: a
 The solution demonstrates production-grade error handling, thread-safe state management, comprehensive unit testing across diverse message scenarios, and extensible architecture for future enhancements including multi-message context analysis and homebrewed NLP classifiers.
 
 ## Project Files
-- [Notebook](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/agent_escalation/improve_agent_escalation.ipynb)
+- [Notebook](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/agent_escalation/improve_agent_escalation.ipynb)

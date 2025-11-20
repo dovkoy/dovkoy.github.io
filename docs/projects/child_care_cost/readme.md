@@ -21,9 +21,9 @@ The project encompasses three major components:
 The project demonstrates advanced data visualization and storytelling techniques including interactive web development with D3.js, accessibility-focused design (color-blind palettes), transparent data transformation documentation, and stakeholder-focused communication. Key findings reveal that while raw costs vary dramatically by region, the proportion of income spent on childcare creates significant financial strain for middle-income families, with counties in the Boston-to-D.C. corridor routinely exceeding 25% of household income.
 
 ## Project Files
-- [Interactive Dashboard (HTML)](https://dovkoy.github.io/msds-portfolio/projects/child_care_cost/dashboard.html)
-- [Dashboard Data (JSON)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/child_care_cost/dashboard_data.json)
-- [Infographic (PDF)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/child_care_cost/infographic.pdf)
-- [White Paper (PDF)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/child_care_cost/white_paper.pdf)
-- [Dashboard Screenshot (PDF)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/child_care_cost/dashboard_screenshot.pdf)
+- [Interactive Dashboard (HTML)](https://dovkoy.github.io/dovkoy.github.io/projects/child_care_cost/dashboard.html)
+- [Dashboard Data (JSON)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/child_care_cost/dashboard_data.json)
+- [Infographic (PDF)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/child_care_cost/infographic.pdf)
+- [White Paper (PDF)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/child_care_cost/white_paper.pdf)
+- [Dashboard Screenshot (PDF)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/child_care_cost/dashboard_screenshot.pdf)
 

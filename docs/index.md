@@ -11,7 +11,7 @@ Welcome! I'm David Koyrakh, a computer and data science professional passionate 
 <p>
   <em>
     Hint: You can find the complete source code and projects on my 
-    <a href="https://github.com/dovkoy/msds-portfolio/" target="_blank">GitHub repository</a>.
+    <a href="https://github.com/dovkoy/dovkoy.github.io/" target="_blank">GitHub repository</a>.
   </em>
 </p>
 

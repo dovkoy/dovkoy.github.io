@@ -21,6 +21,6 @@ The analysis encompasses three major components:
 The project demonstrates comprehensive regression modeling practices including proper handling of mixed data types, missing value semantics, transformation strategies for skewed targets, and model-agnostic interpretability techniques. Final results show Gradient Boosting achieving the strongest performance (RMSE ≈ 28.4K, R² ≈ 0.851), with size and overall quality confirmed as dominant price drivers through both correlation structure and tree-based importance analysis.
 
 ## Project Files
-- [Jupyter Notebook](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/ames_home_prices/notebook.ipynb)
-- [White Paper (PDF)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/ames_home_prices/white_paper.pdf)
+- [Jupyter Notebook](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/ames_home_prices/notebook.ipynb)
+- [White Paper (PDF)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/ames_home_prices/white_paper.pdf)
 

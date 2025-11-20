@@ -19,6 +19,6 @@ The analysis encompasses three major components:
 The project demonstrates advanced data engineering techniques including proxy configuration for large-scale web data collection, time series normalization across discontinuous data windows, multivariate feature engineering, and machine learning model optimization for financial prediction tasks.
 
 ## Project Files
-- [M1: Initial Problem Statement & EDA](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/predicting_btc/M1_Load_Normalize_Trends_BTC_Data.ipynb)
-- [M2: Data Collection, Normalization & Preparation](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/predicting_btc/M2_Initial_EDA.ipynb)
-- [M3: Model Building & Evaluation](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/predicting_btc/M3_Model_Building_Eval.ipynb)
+- [M1: Initial Problem Statement & EDA](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/predicting_btc/M1_Load_Normalize_Trends_BTC_Data.ipynb)
+- [M2: Data Collection, Normalization & Preparation](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/predicting_btc/M2_Initial_EDA.ipynb)
+- [M3: Model Building & Evaluation](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/predicting_btc/M3_Model_Building_Eval.ipynb)

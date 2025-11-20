@@ -17,8 +17,8 @@ This project demonstrates end-to-end data integration from multiple sources to c
 The cleaned datasets are stored in a SQLite database and used for aggregate analysis and visualization. The project showcases core data engineering skills including data extraction, transformation, storage, and exploratory analysis across diverse data formats.
 
 ## Project Files
-- [M1: Project Plan & Outline](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/multi_source_data_analysis/M1_project_plan_outline.pdf)
-- [M2: Processing Flat File Data](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/multi_source_data_analysis/M2_processing_flat_file.ipynb)
-- [M3: Web Data Extraction](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/multi_source_data_analysis/M3_web_extraction.ipynb)
-- [M4: API Data Import](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/multi_source_data_analysis/M4_API_data_import.ipynb)
-- [M5: Data Aggregation & Visualization](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/multi_source_data_analysis/M5_aggregate_visualization.ipynb)
+- [M1: Project Plan & Outline](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/multi_source_data_analysis/M1_project_plan_outline.pdf)
+- [M2: Processing Flat File Data](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/multi_source_data_analysis/M2_processing_flat_file.ipynb)
+- [M3: Web Data Extraction](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/multi_source_data_analysis/M3_web_extraction.ipynb)
+- [M4: API Data Import](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/multi_source_data_analysis/M4_API_data_import.ipynb)
+- [M5: Data Aggregation & Visualization](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/multi_source_data_analysis/M5_aggregate_visualization.ipynb)

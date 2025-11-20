@@ -21,6 +21,6 @@ The analysis encompasses three major components:
 The project demonstrates production-grade modeling practices including proper data leakage prevention, stratified sampling for class imbalance, comprehensive evaluation metrics, and transparent model interpretation. Key findings reveal capital gain, marital status, education, hours worked, and age as dominant income predictors, with both models achieving strong performance (ROC-AUC ≈ 0.90) and highlighting the need for calibrated thresholds and fairness-aware review before operational deployment.
 
 ## Project Files
-- [Jupyter Notebook](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/adult_census_income/notebook.ipynb)
-- [White Paper (PDF)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/adult_census_income/white_paper.pdf)
+- [Jupyter Notebook](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/adult_census_income/notebook.ipynb)
+- [White Paper (PDF)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/adult_census_income/white_paper.pdf)
 

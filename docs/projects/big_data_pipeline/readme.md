@@ -23,5 +23,5 @@ The implementation encompasses four major components:
 The project demonstrates production-grade big data engineering practices including multi-technology integration, Docker container management, distributed computing with YARN resource allocation, and end-to-end workflow orchestration. Results show the Linear Regression model achieving RMSE values ranging from $4,700 to $6,100 and R² values from 0.16 to 0.50, indicating moderate predictive power that reflects realistic advertising behavior patterns.
 
 ## Project Files
-- [White Paper (PDF)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/big_data_pipeline/white_paper.pdf)
+- [White Paper (PDF)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/big_data_pipeline/white_paper.pdf)
 

@@ -21,6 +21,6 @@ The analysis encompasses three major components:
 The project demonstrates rigorous clinical modeling practices including proper handling of missingness without leakage, class imbalance management, interpretability prioritization, and ethical considerations for healthcare applications. Both models achieve strong discrimination (Logistic Regression: ROC-AUC 0.936, Random Forest: ROC-AUC 0.952 on single split; RF cross-validation: ROC-AUC ≈ 0.915), with the logistic model providing transparent, clinically sensible risk drivers suitable for point-of-care decision support.
 
 ## Project Files
-- [Jupyter Notebook](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/heart_health/notebook.ipynb)
-- [White Paper (PDF)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/heart_health/white_paper.pdf)
+- [Jupyter Notebook](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/heart_health/notebook.ipynb)
+- [White Paper (PDF)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/heart_health/white_paper.pdf)
 

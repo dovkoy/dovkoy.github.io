@@ -19,4 +19,4 @@ The study encompasses three major components:
 The project demonstrates rigorous statistical methodology including data source evaluation, exploratory analysis with hypothesis testing, and predictive modeling using R. Key findings reveal clear socioeconomic patterns in survival outcomes, with passenger class and ticket fare showing significant correlations with survival probability.
 
 ## Project Files
-- [Titanic Survival Analysis (PDF Report)](https://github.com/dovkoy/msds-portfolio/tree/trunk/docs/projects/titanic_survival_factors/titanic_survival_factors.pdf)
+- [Titanic Survival Analysis (PDF Report)](https://github.com/dovkoy/dovkoy.github.io/tree/trunk/docs/projects/titanic_survival_factors/titanic_survival_factors.pdf)
