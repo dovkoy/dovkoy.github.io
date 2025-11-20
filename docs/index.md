@@ -55,9 +55,11 @@ I'm seeking opportunities to leverage data science and machine learning to solve
 
 Below are some of the key projects I've worked on, demonstrating my skills across various aspects of data science:
 
-### 1. TBD
+### 1. Bitcoin Price Prediction Using Google Trends
 
-**Link:** TBD
+Developed a binary classification model predicting next-day Bitcoin price movement (up or down) by combining 10 years of Google Trends search data for cryptocurrency-related keywords with technical indicators (RSI, MACD, Bollinger Bands). Implemented advanced data engineering including proxy rotation for large-scale data collection, time series normalization across overlapping windows, and GPU-accelerated XGBoost hyperparameter tuning, achieving 54% validation accuracy above random baseline.
+
+**Link:** [View Project](/projects/predicting_btc/readme.md)
 
 ---
 
@@ -85,17 +87,13 @@ Conducted hypothesis testing and statistical modeling on student survey data usi
 
 ---
 
-### 5. US Census Data ETL Pipeline
-
-Developed an end-to-end data pipeline extracting, transforming, and loading US Census demographic data, integrating multiple data sources including API calls, flat files, and web scraping with automated data quality checks.
+### 5. TBD
 
 **Link:** TBD
 
 ---
 
-### 6. Bitcoin Price Prediction Using Google Trends
-
-Created a machine learning model predicting Bitcoin price movements by combining Google Trends search data with technical indicators, achieving 78.5% accuracy using ensemble methods including Random Forest, XGBoost, and LSTM neural networks.
+### 6. TBD
 
 **Link:** TBD
 
