@@ -6,29 +6,31 @@ B"H
 
 # Data Science Portfolio
 
-Welcome to my portfolio! I'm David Koyrakh, a data science professional passionate about building solutions that drive real business value.
+Welcome! I'm David Koyrakh, a computer and data science professional passionate about bringing valuable design and energy to your team.
 
 * * *
 
 ## About
 
-I am a data science professional with expertise in machine learning, statistical analysis, and big data technologies. My work spans across multiple domains including healthcare, finance, telecommunications, and business intelligence. I specialize in developing predictive models, creating data pipelines, and building interactive dashboards that transform complex data into actionable insights.
+My expertise includes full-stack engineering, machine learning, and big data pipelines. I like to experiment with predictive modeling to identify patterns hiding in publically-available data (there's a lot out there!) such as cryptocurrency price trends and search engine data. Currently, I work as a freelance software engineer.
+
+My experience spans various domains including AI, SaaS, finance, medical tech, telecom, and more.
 
 ### Skills & Technologies
 
-**Programming Languages:** Python, R, SQL
+**Programming Languages:** Python, JavaScript and TypeScript, R, SQL
 
-**Machine Learning:** Scikit-learn, TensorFlow, XGBoost, Random Forest, Neural Networks
+**Machine Learning:** Random Forest, Neural Networks, Deep Learning
 
-**Big Data:** Hadoop, Spark, HBase, Kafka
+**Big Data:** Hadoop, Spark, HBase, Kafka, NiFi, Kubernetes
 
-**Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, ggplot2
+**Data Visualization:** Matplotlib, Seaborn, ggplot2, Tableau, Power BI
 
-**Cloud Platforms:** AWS, Azure, Google Cloud Platform
+**Cloud Platforms:** AWS, Google Cloud Platform
 
 **Statistical Analysis:** Hypothesis Testing, Regression Analysis, Time Series, Clustering
 
-**Tools & Frameworks:** Git, Docker, Jupyter, pandas, NumPy
+**Tools & Frameworks:** Git, Docker, Jupyter, pandas, NumPy, Scikit-learn, TensorFlow
 
 ### Education
 
