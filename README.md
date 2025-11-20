@@ -4,6 +4,6 @@ B"H
 
 Portfolio site representing work from my Master's in Data Science.
 
-- The website is live at https://dovkoy.github.io/msds-portfolio/
+- The website is live at https://dovkoy.github.io/
 - Projects are stored [here](/docs/projects)
 - Theme: [Leap day](https://github.com/pages-themes/leap-day)
