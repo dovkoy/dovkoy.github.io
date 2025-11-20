@@ -8,6 +8,14 @@ B"H
 
 Welcome! I'm David Koyrakh, a computer and data science professional passionate about bringing valuable design and energy to your team.
 
+<p>
+  <em>
+    Hint: You can find the complete source code and projects on my 
+    <a href="https://github.com/dovkoy/msds-portfolio/" target="_blank">GitHub repository</a>.
+  </em>
+</p>
+
+
 * * *
 
 ## About
