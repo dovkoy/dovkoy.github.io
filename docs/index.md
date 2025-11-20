@@ -57,7 +57,7 @@ Below are some of the key projects I've worked on, demonstrating my skills acros
 
 ### 1. Bitcoin Price Prediction Using Google Trends
 
-Developed a binary classification model predicting next-day Bitcoin price movement (up or down) by combining 10 years of Google Trends search data for cryptocurrency-related keywords with technical indicators (RSI, MACD, Bollinger Bands). Implemented advanced data engineering including proxy rotation for large-scale data collection, time series normalization across overlapping windows, and GPU-accelerated XGBoost hyperparameter tuning, achieving 54% validation accuracy above random baseline.
+Developed a binary classification model predicting next-day Bitcoin price movement (up or down) by combining 10 years of Google Trends search data for cryptocurrency-related keywords with technical indicators (RSI, MACD, Bollinger Bands). Implemented advanced data engineering including proxy rotation for large-scale data collection, time series normalization across overlapping windows, and GPU-accelerated XGBoost hyperparameter tuning. The model achieves 54% accuracy on the test set, jumping to 60.7% accuracy at the >70% confidence threshold.
 
 **Link:** [View Project](/projects/predicting_btc/readme.md)
 
