@@ -71,27 +71,27 @@ Demonstrated end-to-end data integration from three distinct sources (USDA labor
 
 ---
 
-### 3. Hadoop and Spark Big Data Implementation
+### 3. Big Data Pipeline: Advertisement Performance Analysis
 
-Implemented a complete big data infrastructure using Hadoop, Spark, HBase, and Kafka for processing large-scale datasets, including real-time data streaming and distributed computing solutions on cloud platforms.
+Orchestrated a complete big data pipeline using Apache NiFi, HDFS, Hive, Spark (via YARN), and HBase to ingest, store, process, and analyze online advertisement performance data. Built and evaluated a Linear Regression model using Spark MLlib to predict revenue from advertising metrics, demonstrating end-to-end workflow orchestration across multiple big data technologies with Docker container management and distributed computing.
 
-**Link:** TBD
+**Link:** [View Project](/projects/big_data_pipeline/readme.md)
 
 ---
 
-### 4. US Childcare Cost Analysis Dashboard
+### 4. U.S. Childcare Cost Analysis Dashboard
 
-Built an interactive dashboard analyzing childcare costs across different US regions and demographics, creating compelling visualizations and infographics to communicate policy implications and economic trends to stakeholders.
+Analyzed the National Database of Childcare Prices to reveal geographic and economic disparities in U.S. childcare costs. Created an interactive HTML/JavaScript dashboard with D3.js featuring choropleth maps showing costs as percentage of median household income by county, with filtering capabilities for age groups and care types. Developed supporting infographics and presentation materials for policymakers, revealing that national average affordability (15.9% of income) exceeds the federal benchmark of 7%.
 
-**Link:** TBD
+**Link:** [View Project](/projects/child_care_cost/readme.md)
 
 ---
 
 ### 5. Telecom Customer Churn Prediction Model
 
-Developed a predictive model identifying customers at risk of leaving their telecom provider, achieving 85% accuracy and providing actionable insights for retention strategies including contract optimization and service improvements.
+Developed a predictive model for the IBM Telco Customer Churn dataset (7,000+ customers) using class-weighted Logistic Regression to identify customers at risk of leaving their telecom provider. Achieved ROC-AUC of 0.846 with 80% recall, capturing 8 out of 10 churners. Identified contract type as the strongest predictor, with month-to-month contracts showing 43% churn rate compared to 3% for two-year contracts, providing actionable insights for retention strategies.
 
-**Link:** TBD
+**Link:** [View Project](/projects/telcom_churn/readme.md)
 
 ---
 
@@ -111,23 +111,27 @@ Developed a production-grade safeguard for AI customer service systems to reliab
 
 ---
 
-### 8. TBD
+### 8. Ames Housing Price Prediction
 
-**Link:** TBD
+Built transparent and performant regression models to predict home sale prices in Ames, Iowa using the widely-used Ames Housing dataset (1,460 properties with 79 features). Compared Ridge regression, Random Forest, and Gradient Boosting approaches with comprehensive feature engineering and missing value handling. Achieved best performance with Gradient Boosting (RMSE ≈ $28.4K, R² ≈ 0.851), identifying overall quality and living area as dominant price drivers through correlation analysis and tree-based importance metrics.
 
----
-
-### 9. TBD
-
-**Link:** TBD
+**Link:** [View Project](/projects/ames_home_prices/readme.md)
 
 ---
 
-### 10. Heart Disease Risk Assessment Tool
+### 9. Census Income Prediction and Socioeconomic Analysis
 
-Developed an interpretable machine learning model predicting heart disease risk using clinical data, achieving 89% accuracy with strong focus on model explainability and ethical considerations for healthcare applications.
+Developed interpretable models using the Adult Census Income dataset (32,561 records from 1994 U.S. Census) to predict whether an individual's annual income exceeds $50,000. Trained Logistic Regression and Random Forest models inside leak-safe pipelines, achieving ROC-AUC ≈ 0.90 on held-out data. Identified capital gain, marital status, education, hours worked, and age as key income drivers, with comprehensive subgroup evaluation revealing performance differences across demographics that inform fairness-aware deployment considerations.
 
-**Link:** TBD
+**Link:** [View Project](/projects/adult_census_income/readme.md)
+
+---
+
+### 10. Heart Disease Risk Prediction for Clinical Decision Support
+
+Developed an interpretable, end-to-end analysis for predicting heart disease presence using the UCI Heart Disease dataset (Cleveland subset, 304 records). Trained Logistic Regression and Random Forest models with class-balanced weighting, achieving strong discrimination (Logistic Regression: ROC-AUC 0.936, Random Forest: ROC-AUC 0.952 on single split; RF cross-validation: ROC-AUC ≈ 0.915). Extracted clinically sensible risk drivers including chest pain presentation, vessel count, and ST/thal findings to support preventative care and early intervention decisions.
+
+**Link:** [View Project](/projects/heart_health/readme.md)
 
 * * *
 
