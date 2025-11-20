@@ -63,7 +63,7 @@ Developed a binary classification model predicting next-day Bitcoin price moveme
 
 ---
 
-### 2. Multi-Source Data Analysis: U.S. State Statistics Integration
+### 2. Multi-Source Data Analysis of U.S. State Statistics
 
 Demonstrated end-to-end data integration from three distinct sources (USDA labor statistics, Wikipedia religiosity data, and U.S. Census API) to create a comprehensive state-level dataset. Implemented data extraction, transformation, and storage in SQLite with aggregate analysis and visualization showcasing patterns across economic, demographic, and social factors.
 
@@ -71,43 +71,15 @@ Demonstrated end-to-end data integration from three distinct sources (USDA labor
 
 ---
 
-### 3. Titanic Survival Prediction with R
+### 3. Hadoop and Spark Big Data Implementation
 
-Built a comprehensive statistical analysis and machine learning model using R to predict passenger survival on the Titanic, incorporating demographic data, ticket class, and family relationships with advanced visualization techniques.
-
-**Link:** [View Project](/projects/titanic_survival_factors_R.pdf)
-
----
-
-### 4. Statistical Analysis of Survey Data with Python
-
-Conducted hypothesis testing and statistical modeling on student survey data using Python, exploring relationships between academic performance, study habits, and demographic factors with comprehensive statistical validation.
+Implemented a complete big data infrastructure using Hadoop, Spark, HBase, and Kafka for processing large-scale datasets, including real-time data streaming and distributed computing solutions on cloud platforms.
 
 **Link:** TBD
 
 ---
 
-### 5. TBD
-
-**Link:** TBD
-
----
-
-### 6. TBD
-
-**Link:** TBD
-
----
-
-### 7. Telecom Customer Churn Prediction Model
-
-Developed a predictive model identifying customers at risk of leaving their telecom provider, achieving 85% accuracy and providing actionable insights for retention strategies including contract optimization and service improvements.
-
-**Link:** TBD
-
----
-
-### 8. US Childcare Cost Analysis Dashboard
+### 4. US Childcare Cost Analysis Dashboard
 
 Built an interactive dashboard analyzing childcare costs across different US regions and demographics, creating compelling visualizations and infographics to communicate policy implications and economic trends to stakeholders.
 
@@ -115,9 +87,35 @@ Built an interactive dashboard analyzing childcare costs across different US reg
 
 ---
 
-### 9. Hadoop and Spark Big Data Implementation
+### 5. Telecom Customer Churn Prediction Model
 
-Implemented a complete big data infrastructure using Hadoop, Spark, HBase, and Kafka for processing large-scale datasets, including real-time data streaming and distributed computing solutions on cloud platforms.
+Developed a predictive model identifying customers at risk of leaving their telecom provider, achieving 85% accuracy and providing actionable insights for retention strategies including contract optimization and service improvements.
+
+**Link:** TBD
+
+---
+
+### 6. Titanic Survival Prediction with R
+
+Built a comprehensive statistical analysis and machine learning model using R to predict passenger survival on the Titanic, incorporating demographic data, ticket class, and family relationships with advanced visualization techniques.
+
+**Link:** [View Project](/projects/titanic_survival_factors_R.pdf)
+
+---
+
+### 7. TBD
+
+**Link:** TBD
+
+---
+
+### 8. TBD
+
+**Link:** TBD
+
+---
+
+### 9. TBD
 
 **Link:** TBD
 
