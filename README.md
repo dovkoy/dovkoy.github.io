@@ -1,6 +1,9 @@
 B"H
 
-# msds-portfolio
-Portfolio site representing work from my Master's in Data Science
+# MSDS Portfolio
 
-Theme: [Leap day](https://github.com/pages-themes/leap-day)
+Portfolio site representing work from my Master's in Data Science.
+
+- The website is live at https://dovkoy.github.io/msds-portfolio/
+- Projects are stored [here](/docs/projects)
+- Theme: [Leap day](https://github.com/pages-themes/leap-day)
