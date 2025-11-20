@@ -55,19 +55,17 @@ I'm seeking opportunities to leverage data science and machine learning to solve
 
 Below are some of the key projects I've worked on, demonstrating my skills across various aspects of data science:
 
-### 1. Data Science ROI Analysis for Business Executives
-
-Created a comprehensive presentation analyzing the return on investment of data science initiatives across different business sectors, including case studies and implementation strategies for C-level executives.
+### 1. TBD
 
 **Link:** TBD
 
 ---
 
-### 2. Customer Segmentation Using Concession Stand Data
+### 2. Multi-Source Data Analysis: U.S. State Statistics Integration
 
-Applied K-means clustering to analyze customer purchasing patterns at concession stands, identifying distinct customer segments and developing targeted marketing strategies based on spending behavior and preferences.
+Demonstrated end-to-end data integration from three distinct sources (USDA labor statistics, Wikipedia religiosity data, and U.S. Census API) to create a comprehensive state-level dataset. Implemented data extraction, transformation, and storage in SQLite with aggregate analysis and visualization showcasing patterns across economic, demographic, and social factors.
 
-**Link:** TBD
+**Link:** [View Project](/projects/multi_source_data_analysis/readme.md)
 
 ---
 
@@ -75,7 +73,7 @@ Applied K-means clustering to analyze customer purchasing patterns at concession
 
 Built a comprehensive statistical analysis and machine learning model using R to predict passenger survival on the Titanic, incorporating demographic data, ticket class, and family relationships with advanced visualization techniques.
 
-**Link:** TBD
+**Link:** [View Project](/projects/titanic_survival_factors_R.pdf)
 
 ---
 
